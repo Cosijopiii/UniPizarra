@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UniPizarra:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/UniPizarra_jar</output-path>
+    <root id="archive" name="UniPizarra.jar">
+      <element id="module-output" name="UniPizarra" />
+    </root>
+  </artifact>
+</component>
